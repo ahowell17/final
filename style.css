@@ -1,0 +1,16 @@
+
+p{font-family:arial;}
+h1,h2,h3,h4,h5{font-family:georgia;}
+body{font-family:arial;}
+.row.content{height:1500px}
+.sidenav {background-color:#f1f1f1; height: 100%;}
+footer {background-color: #f5f5dc; color:white;padding: 15px;}
+.row.content{height: auto;}
+
+body{font:20px montserrat,sans-serif; line-height:1.8;color: #f5f6f7;}
+p{font-size: 16px;}
+.margin{margin-bottom: 45px;}
+.bg-1{background-color: #c79d0b; color:#ffffff;}
+.bg-2 {background-color:#474e5d; color:#ffffff;}
+.bg-3{background-color:#ffffff; color: #393939;}
+.bg-4{background-color:#2f2f2f;color:#fff;
